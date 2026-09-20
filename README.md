@@ -2,4 +2,4 @@
 
   <sub>guys im gonna update my straw soon hold tight</sub>
 
-https://komarev.com/ghpvc/?username=sicklyheretic&color=E76489&label=crazy+babes!
+![](https://komarev.com/ghpvc/?username=sicklyheretic&label=crazy+babes)
